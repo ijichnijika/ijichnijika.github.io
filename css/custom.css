@@ -199,3 +199,6 @@
     text-shadow: #5636ed 0 0 5px;
   }
 }
+:root {
+  --anzhiyu-card-bg: #fff;
+}
