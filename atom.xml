@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Nijika</title>
   
+  <subtitle>Learn to walk before you run.</subtitle>
+  <link href="http://nijika.cn/atom.xml" rel="self"/>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
-  
-  <link href="http://example.com/"/>
+  <link href="http://nijika.cn/"/>
   <updated>2024-10-19T08:00:00.000Z</updated>
-  <id>http://example.com/</id>
+  <id>http://nijika.cn/</id>
   
   <author>
     <name>Nijika</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>使用hexo进行个人博客创建</title>
-    <link href="http://example.com/2024/10/19/%E4%BD%BF%E7%94%A8hexo%E8%BF%9B%E8%A1%8C%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA/"/>
-    <id>http://example.com/2024/10/19/%E4%BD%BF%E7%94%A8hexo%E8%BF%9B%E8%A1%8C%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA/</id>
+    <link href="http://nijika.cn/2024/10/19/%E4%BD%BF%E7%94%A8hexo%E8%BF%9B%E8%A1%8C%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA/"/>
+    <id>http://nijika.cn/2024/10/19/%E4%BD%BF%E7%94%A8hexo%E8%BF%9B%E8%A1%8C%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA/</id>
     <published>2024-10-19T08:00:00.000Z</published>
     <updated>2024-10-19T08:00:00.000Z</updated>
     
